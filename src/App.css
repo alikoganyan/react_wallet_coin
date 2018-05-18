@@ -1,0 +1,9 @@
+#root, #root:first-child {
+  height: 100%;
+}
+
+.w-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
